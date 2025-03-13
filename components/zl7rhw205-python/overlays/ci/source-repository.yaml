@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: zl7rhw205-python-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/zl7rhw205-python
